@@ -67,8 +67,6 @@ class SearchResultsList extends React.Component {
 }
 
 
-
-
 //::::::::::::::APP::::::::::::::::::::::::::::::::::::::
 class App extends React.Component {
   constructor(props){
@@ -106,7 +104,6 @@ class App extends React.Component {
   render(){  
     return (
       <main>
-        <h1> apple sauce </h1>
         <SearchForm 
           title='Reddit Board' 
           handleSearch={this.redditBoardFetch}
