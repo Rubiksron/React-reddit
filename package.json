@@ -2,7 +2,7 @@
   "name": "react-reddit",
   "version": "1.0.0",
   "description": "api call to sub-reddit category",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "lint": "eslint .",
     "watch": "webpack-dev-server --inline --hot",
