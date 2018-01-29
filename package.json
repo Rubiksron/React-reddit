@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Rubiksron/React-reddit/issues"
   },
-  "homepage": "https://github.com/Rubiksron/React-reddit#readme",
+  "homepage": "https://github.com/Rubiksron/React-reddit",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
